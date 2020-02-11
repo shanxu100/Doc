@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.huawei.practice.deeplinkapp",
+    "sha256_cert_fingerprints":
+    ["5B:B4:C4:75:24:C0:C9:19:1C:F4:FB:6F:57:2F:AF:95:AF:8F:9C:D3:B9:79:72:AB:08:18:86:5F:01:2E:4D:04"]
+  }
+}]
